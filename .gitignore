@@ -1,0 +1,12 @@
+*.ncb
+*.ilk
+*.pdb
+*.exe
+*.idb
+*.obj
+*.dep
+*.res
+*.manifest
+*.user
+*/debug
+*/*/Debug
